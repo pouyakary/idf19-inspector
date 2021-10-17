@@ -1,7 +1,7 @@
 {
-  "name": "begin-app",
+  "name": "idf19-api",
   "version": "0.0.0",
-  "description": "Begin basic Hello World! app for Node",
+  "description": "API for IDF19 Server",
   "arc": {
     "app": "hello-world",
     "http": [
