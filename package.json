@@ -6,9 +6,9 @@
     "app": "idf19-api",
     "http": [
       {
-        "/v1.3": {
-          "method": "POST",
-          "src": "./v1.3"
+        "/": {
+          "method": "ANY",
+          "src": "."
         }
       }
     ]
