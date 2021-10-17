@@ -6,9 +6,9 @@
     "app": "hello-world",
     "http": [
       {
-        "/": {
+        "/v1.3": {
           "method": "any",
-          "src": "."
+          "src": "./v1.3"
         }
       }
     ]
