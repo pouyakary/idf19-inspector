@@ -1,9 +1,9 @@
 {
-  "name": "idf19-api",
-  "version": "0.0.0",
+  "name": "idf19",
+  "version": "1.3.0",
   "description": "API for IDF19 Server",
   "arc": {
-    "app": "idf19-api",
+    "app": "idf19",
     "http": [
       {
         "/": {
