@@ -7,7 +7,7 @@
     "http": [
       {
         "/v1.3": {
-          "method": "any",
+          "method": "POST",
           "src": "./v1.3"
         }
       }
