@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "API for IDF19 Server",
   "arc": {
-    "app": "hello-world",
+    "app": "idf19-api",
     "http": [
       {
         "/v1.3": {
